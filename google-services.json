@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915254656361",
+    "firebase_url": "https://chattask-7434f.firebaseio.com",
+    "project_id": "chattask-7434f",
+    "storage_bucket": "chattask-7434f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915254656361:android:089943a22f523d7481d1f8",
+        "android_client_info": {
+          "package_name": "com.example.chattask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915254656361-m3di12chiutb5dub8q5copfd26s8qmdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattask",
+            "certificate_hash": "d9afa2b0805895bcc6971c7b5c23542ccb5fb44f"
+          }
+        },
+        {
+          "client_id": "915254656361-aqq8fr4a5d9718gqimr99o06o6u431m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQ_yJUWfHEDK0yYlwkY27-YoxXRjRnU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915254656361-aqq8fr4a5d9718gqimr99o06o6u431m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
