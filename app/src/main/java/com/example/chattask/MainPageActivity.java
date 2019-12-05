@@ -85,7 +85,7 @@ public class MainPageActivity extends AppCompatActivity {
                             mChatListAdapter.notifyDataSetChanged();
                         }
                     }
-                }
+                }//hello
 
                 @Override
                 public void onCancelled(@NonNull DatabaseError databaseError) {
